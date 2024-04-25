@@ -14,7 +14,7 @@ deprecated==1.2.13
     # via redis
 hiredis==2.0.0
     # via redis
-idna==3.3
+idna==3.7
     # via anyio
 packaging==21.3
     # via redis
